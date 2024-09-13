@@ -64,7 +64,7 @@ function App() {
           <div className="box2"></div>
           <div className="box3"></div>
           <div className="box4">
-            <span>10+</span>
+            <p>10+</p>
             <p>years of experiences</p>
           </div>
         </div>
